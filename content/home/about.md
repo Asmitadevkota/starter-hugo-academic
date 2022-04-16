@@ -1,21 +1,18 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
-
-# Activate this widget? true/false
+widget: "Anil Sigdel "
 active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+widget_id: Postdoctoral Research Fellow
+headless: true
+weight: 0
+title: Biography
+subtitle: I am postdoctoral fellow at University of Pennsylvania.
+design:
+  columns: Interests
+  background:
+    color: "#d71d1d"
+    gradient_start: "#921f1f"
+    gradient_end: "#e97676"
+    text_color_light: true
+    image: periodic-table.jpg
 ---
